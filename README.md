@@ -1,12 +1,12 @@
 ## Resampling
 ### Which model had the best balanced accuracy score?
+\
+Over sampling accuracy score: 0.7269\
+Smote accuracy score: 0.7274\
+Cluster centroid accuracy score: 0.7115\
+Combination accuracy score: 0.5999\
 
-Over sampling accuracy score: 0.7269
-Smote accuracy score: 0.7274
-Cluster centroid accuracy score: 0.7115
-Combination accuracy score: 0.5999
-
-The smote oversampling method produces the best accuracy score.
+The smote oversampling method produces the best accuracy score.\
 
 ### Which model had the best recall score?
 
